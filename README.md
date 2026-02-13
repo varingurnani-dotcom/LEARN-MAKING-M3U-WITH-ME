@@ -62,3 +62,10 @@ After the header, every channel is written using #EXTINF.
 Think of #EXTINF as the channel’s identity card.
 It contains the channel name and optional info.
 The basic formula is always:
+#EXTINF:-1,Channel Name
+Stream-Link-Here
+That means every channel has 2 lines:
+1️⃣ Channel info line
+2️⃣ Stream URL line
+✅ Dummy Playlist Example (For Learning)
+Here is a safe practice playlist structure:
