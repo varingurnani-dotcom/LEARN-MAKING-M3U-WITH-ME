@@ -50,7 +50,7 @@ So yes — **anyone can write an M3U file**, but the stream links must be legall
 Just like HTML starts with a main tag:  
 
 <html>
-<html>
+
 
 #EXTM3U
 
