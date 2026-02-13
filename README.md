@@ -49,7 +49,7 @@ So yes — **anyone can write an M3U file**, but the stream links must be legall
 
 Just like HTML starts with a main tag:  
 
-```html
+<html>
 <html>
 
 #EXTM3U
@@ -104,5 +104,7 @@ Not as playlist.txt ❌
 Anyone can become an M3U creator 💪
 You only need to understand the structure and have valid stream sources.
 This repository is made purely for educational purposes, to help beginners learn playlist formatting safely and legally.
+To make the m3u url you need to have your file first, if you have m3u file go to catbox.moe site upload your file and it will generate the url, copy it and paste it into your respective player.
+RECOMMENDED IPTV PLAYERS: OTT NAVIGATOR or TIVIMATE.
 More tutorials coming soon… 🚀
 Toutrial by: VARINANGER
