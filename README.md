@@ -51,3 +51,14 @@ Just like HTML starts with a main tag:
 
 ```html
 <html>
+
+#EXTM3U
+
+This line tells the IPTV player:
+📌 “This is an M3U playlist file.”
+Without this header, your playlist may not load correctly.
+📌 What is #EXTINF?
+After the header, every channel is written using #EXTINF.
+Think of #EXTINF as the channel’s identity card.
+It contains the channel name and optional info.
+The basic formula is always:
