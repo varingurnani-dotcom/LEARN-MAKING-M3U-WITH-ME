@@ -69,3 +69,14 @@ That means every channel has 2 lines:
 2️⃣ Stream URL line
 ✅ Dummy Playlist Example (For Learning)
 Here is a safe practice playlist structure:
+
+#EXTM3U
+
+#EXTINF:-1,Example Channel Name
+http://example.com:8080/live/user/pass/111.ts
+
+#EXTINF:-1,Example Channel Name
+http://example.com:8080/live/user/pass/222.ts
+
+#EXTINF:-1,Example Channel Name
+http://example.com:8080/hls/stream333.m3u8
