@@ -47,8 +47,8 @@ So yes — **anyone can write an M3U file**, but the stream links must be legall
 
 ## 🧠 Understanding the M3U Header  
 
-Just like HTML starts with a main tag:  
-<html>
+Just like HTML starts with a main tag html in this way m3u has a same header like this
+
 
 #EXTM3U
 
