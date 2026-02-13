@@ -80,3 +80,7 @@ http://example.com:8080/live/user/pass/222.ts
 
 #EXTINF:-1,Example Channel Name
 http://example.com:8080/hls/stream333.m3u8
+
+⚠️ These links are dummy examples only, made to explain the format.
+🎨 Making Playlists Look Professional
+You can also add extra details like channel logo and category:
