@@ -87,9 +87,13 @@ http://provider.com:8080/live/user/pass/999.ts
 
 
 This helps IPTV apps show channels neatly inside folders like:
+
 📁 Movies
+
 📁 Kids
+
 📁 Sports
+
 🛠 How to Create Your Own M3U File
 Creating an M3U is very easy:
 📌 Step 1: Open Notepad / VS Code
