@@ -87,6 +87,7 @@ You can also add extra details like channel logo and category:
 #EXTINF:-1 tvg-logo="https://logo-link.png" group-title="Kids",Nick
 http://provider.com:8080/live/user/pass/999.ts
 
+
 This helps IPTV apps show channels neatly inside folders like:
 📁 Movies
 📁 Kids
