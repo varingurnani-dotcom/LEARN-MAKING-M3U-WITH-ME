@@ -86,3 +86,23 @@ http://example.com:8080/hls/stream333.m3u8
 You can also add extra details like channel logo and category:
 #EXTINF:-1 tvg-logo="https://logo-link.png" group-title="Kids",Nick
 http://provider.com:8080/live/user/pass/999.ts
+
+This helps IPTV apps show channels neatly inside folders like:
+📁 Movies
+📁 Kids
+📁 Sports
+🛠 How to Create Your Own M3U File
+Creating an M3U is very easy:
+📌 Step 1: Open Notepad / VS Code
+📌 Step 2: Write the header #EXTM3U
+📌 Step 3: Add channels using #EXTINF as mentioned in dummy m3u above
+📌 Step 4: Paste your legal IPTV stream links
+📌 Step 5: Save file as:
+playlist.m3u ✅
+Not as playlist.txt ❌
+⭐ Final Words
+Anyone can become an M3U creator 💪
+You only need to understand the structure and have valid stream sources.
+This repository is made purely for educational purposes, to help beginners learn playlist formatting safely and legally.
+More tutorials coming soon… 🚀
+Toutrial by: VARINANGER
