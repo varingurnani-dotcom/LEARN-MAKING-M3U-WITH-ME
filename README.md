@@ -53,8 +53,10 @@ Just like HTML starts with a main tag html in this way m3u has a same header lik
 #EXTM3U
 
 This line tells the IPTV player:
+
 📌 “This is an M3U playlist file.”
 Without this header, your playlist may not load correctly.
+
 📌 What is #EXTINF?
 After the header, every channel is written using #EXTINF.
 Think of #EXTINF as the channel’s identity card.
@@ -96,13 +98,20 @@ This helps IPTV apps show channels neatly inside folders like:
 
 🛠 How to Create Your Own M3U File
 Creating an M3U is very easy:
+
 📌 Step 1: Open Notepad / VS Code
+
 📌 Step 2: Write the header #EXTM3U
-📌 Step 3: Add channels using #EXTINF as mentioned in dummy m3u above
-📌 Step 4: Paste your legal IPTV stream links
+
+📌 Step 3: Add channels using #EXTINF as
+ mentioned in dummy m3u above
+
+📌 Step 4: Paste your legal IPTV stream links 
+
 📌 Step 5: Save file as:
 playlist.m3u ✅
 Not as playlist.txt ❌
+
 ⭐ Final Words
 Anyone can become an M3U creator 💪
 You only need to understand the structure and have valid stream sources.
